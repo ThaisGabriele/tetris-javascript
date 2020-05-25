@@ -7,5 +7,4 @@ Implementação do jogo tetris em javascript com o intuito de praticar conceitos
 Na implementação apresentada o tabuleiro de jogo e o bloco indicando a próxima peça são formados por tabelas que são criadas usando os comandos 
 **createElement** e **appendChild**.
 
-<img src="
-https://drive.google.com/file/d/1kRN80G3EphcOgrXtaa5DQo4-vcMG4q7i/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1kRN80G3EphcOgrXtaa5DQo4-vcMG4q7i/view?usp=sharing">
