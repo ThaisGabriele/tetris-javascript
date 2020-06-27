@@ -8,3 +8,11 @@ Na implementação apresentada o tabuleiro de jogo e o bloco indicando a próxim
 **createElement** e **appendChild**.
 
 <img src="https://drive.google.com/file/d/1kRN80G3EphcOgrXtaa5DQo4-vcMG4q7i/view?usp=sharing">
+
+
+# Projeto de Implementação 1 - Questões
+
+###cQuestao 1
+
+
+
